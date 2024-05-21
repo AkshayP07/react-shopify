@@ -8,7 +8,6 @@ Open source landing page shopify application </h5>
 - [Technologies used](#technologies-used)
 - [📸 Screenshots](#screenshots)
 - [Author](#author)
-- [License](#license)
 
 ## Configuration and Setup
 
@@ -75,6 +74,6 @@ This project was created using the following technologies.
 
 ## Author
 
-- Github: [AkshayP07]()
+- Github: [AkshayP07](https://github.com/AkshayP07)
 - Linkedin: [Akshay Parihar](www.linkedin.com/in/akshay-p-ab5125229)
 - Email: [akshayparihar881@gmail.com]
