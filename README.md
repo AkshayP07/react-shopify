@@ -1,6 +1,6 @@
 <H1 align ="center" > SHOPIFY </h1>
 <h5  align ="center"> 
-Open source landing page shopify application </h5>
+Landing page shopify application </h5>
 <br/>
 
 - [Configuration and Setup](#configuration-and-setup)
@@ -68,9 +68,6 @@ This project was created using the following technologies.
 
 ![img-5](https://user-images.githubusercontent.com/111676859/235677711-1f9be054-db9f-425f-b24c-bee8700e6193.png)
 
----
-
-![img-6](https://user-images.githubusercontent.com/111676859/235677713-d2ee180f-5915-4d94-b562-aafcf917af8d.png)
 
 ## Author
 
